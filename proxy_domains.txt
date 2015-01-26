@@ -3,3 +3,4 @@ evernote.com
 google.com.hk
 akamaihd.net
 gravatar.com
+pypi.python.org

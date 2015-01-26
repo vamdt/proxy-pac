@@ -2633,6 +2633,7 @@ var domains = {
   "google.com.hk": 1,
   "akamaihd.net": 1,
   "gravatar.com": 1,
+  "pypi.python.org": 1,
 // custom -- end
   "1-apple.com.tw": 1
 };
