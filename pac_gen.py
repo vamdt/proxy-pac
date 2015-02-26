@@ -11,6 +11,7 @@ def main():
     repl = '\\n' + custom_domains() + '\\1'
 
     ret = re.sub(r'(\s.+: 1\n\};\n)', repl, pac_content, re.DOTALL)
+    ret = ret.replace('1080', '15083')
     save(ret, 'proxy.pac')
 
 def json_filed(field):
