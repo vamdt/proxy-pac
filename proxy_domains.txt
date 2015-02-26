@@ -4,3 +4,5 @@ google.com.hk
 akamaihd.net
 gravatar.com
 pypi.python.org
+quora.com
+quoracdn.net
