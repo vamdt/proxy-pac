@@ -1,6 +1,7 @@
 doubleclick.net
 evernote.com
 google.com.hk
+google.nl
 akamaihd.net
 gravatar.com
 pypi.python.org

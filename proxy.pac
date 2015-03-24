@@ -2491,6 +2491,7 @@ var domains = {
   "doubleclick.net": 1,
   "evernote.com": 1,
   "google.com.hk": 1,
+  "google.nl": 1,
   "akamaihd.net": 1,
   "gravatar.com": 1,
   "pypi.python.org": 1,
