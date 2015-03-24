@@ -2496,6 +2496,7 @@ var domains = {
   "pypi.python.org": 1,
   "quora.com": 1,
   "quoracdn.net": 1,
+  "v2ex.com": 1,
 // custom -- end
   "zyzc9.com": 1
 };
