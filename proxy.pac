@@ -2499,6 +2499,8 @@ var domains = {
   "quoracdn.net": 1,
   "v2ex.com": 1,
   "lvv2.com": 1,
+  "docker.com": 1,
+  "nym.ag": 1,
 // custom -- end
   "zyzc9.com": 1
 };
