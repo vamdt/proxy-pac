@@ -2501,6 +2501,10 @@ var domains = {
   "lvv2.com": 1,
   "docker.com": 1,
   "nym.ag": 1,
+  "blogspot.com": 1,
+  "blogspot.nl": 1,
+  "pinterest.com": 1,
+  "mongoid.org": 1,
 // custom -- end
   "zyzc9.com": 1
 };

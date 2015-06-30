@@ -11,3 +11,7 @@ v2ex.com
 lvv2.com
 docker.com
 nym.ag
+blogspot.com
+blogspot.nl
+pinterest.com
+mongoid.org
