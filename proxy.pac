@@ -2505,6 +2505,8 @@ var domains = {
   "blogspot.nl": 1,
   "pinterest.com": 1,
   "mongoid.org": 1,
+  "ocaml.org": 1,
+  "jwt.io": 1,
 // custom -- end
   "zyzc9.com": 1
 };
