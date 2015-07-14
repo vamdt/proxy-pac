@@ -2507,6 +2507,9 @@ var domains = {
   "mongoid.org": 1,
   "ocaml.org": 1,
   "jwt.io": 1,
+  "wp.com": 1,
+  "ift.tt": 1,
+  "is-programmer.com": 1,
 // custom -- end
   "zyzc9.com": 1
 };

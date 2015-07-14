@@ -17,3 +17,6 @@ pinterest.com
 mongoid.org
 ocaml.org
 jwt.io
+wp.com
+ift.tt
+is-programmer.com
