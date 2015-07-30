@@ -20,3 +20,5 @@ jwt.io
 wp.com
 ift.tt
 is-programmer.com
+berkeley.edu
+scrumology.com

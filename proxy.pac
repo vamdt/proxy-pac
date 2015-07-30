@@ -2510,6 +2510,8 @@ var domains = {
   "wp.com": 1,
   "ift.tt": 1,
   "is-programmer.com": 1,
+  "berkeley.edu": 1,
+  "scrumology.com": 1,
 // custom -- end
   "zyzc9.com": 1
 };
